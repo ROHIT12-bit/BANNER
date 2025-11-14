@@ -47,8 +47,8 @@ def make_banner(anime):
     bg.paste(anime_img, (820, 60))
 
     # Fonts
-    font_title = ImageFont.truetype("arial.ttf", 60)
-    font_small = ImageFont.truetype("arial.ttf", 32)
+    font_title = ImageFont.truetype("./fonts/Poppins-Bold.ttf", 60)
+    font_small = ImageFont.truetype("./fonts/Poppins-Bold.ttf", 32)
 
     # Header text
     draw.text((40, 20), "ANIME UNIVERSE", fill="#ff0000", font=font_title)
