@@ -1,7 +1,7 @@
 class Config:
-    API_ID = 12345
-    API_HASH = "your_api_hash"
-    BOT_TOKEN = "your_bot_token"
+    API_ID = 20366634
+    API_HASH = "72095ec36984aa9ceb0dbaa9cec31559"
+    BOT_TOKEN = "8318148315:AAFvlhMNP_X8BCdKkCnvqi8ehRQ4k98emrY"
 
     START_MSG = """
 👋 **Welcome to Anime Universe Banner Bot!**
