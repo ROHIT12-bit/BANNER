@@ -1,4 +1,4 @@
-    from pyrogram import Client, filters
+from pyrogram import Client, filters
 from config import Config
 import requests
 from PIL import Image, ImageDraw, ImageFont
